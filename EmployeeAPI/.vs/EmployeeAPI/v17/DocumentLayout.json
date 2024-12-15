@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\CsharpAPIs\\EmployeeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4AE797-D3D6-40CB-A6F0-DEBB95ECF489}|..\\EmployeeAPI.Tests\\EmployeeAPI.Tests.csproj|d:\\courses\\csharpapis\\employeeapi.tests\\basictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F660B593-75C7-4185-BBED-F1364A46DE98}|EmployeeAPI.csproj|d:\\courses\\csharpapis\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F660B593-75C7-4185-BBED-F1364A46DE98}|EmployeeAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F660B593-75C7-4185-BBED-F1364A46DE98}|EmployeeAPI.csproj|d:\\courses\\csharpapis\\employeeapi\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F660B593-75C7-4185-BBED-F1364A46DE98}|EmployeeAPI.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Courses\\CsharpAPIs\\EmployeeAPI\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\Courses\\CsharpAPIs\\EmployeeAPI\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:50:30.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Courses\\CsharpAPIs\\EmployeeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Courses\\CsharpAPIs\\EmployeeAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:46:15.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasicTests.cs",
+              "DocumentMoniker": "D:\\Courses\\CsharpAPIs\\EmployeeAPI.Tests\\BasicTests.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAPI.Tests\\BasicTests.cs",
+              "ToolTip": "D:\\Courses\\CsharpAPIs\\EmployeeAPI.Tests\\BasicTests.cs",
+              "RelativeToolTip": "..\\EmployeeAPI.Tests\\BasicTests.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwDYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:29:34.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
